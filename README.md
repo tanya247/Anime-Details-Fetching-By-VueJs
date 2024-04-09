@@ -1,5 +1,24 @@
-# Anime-Details-Fetching-By-VueJs
+# vue-app
 
-Dowload zip folder and extract all the files from that zip folder 
-After that run command of **npm i** , it will install all the packages which I used in this project.
-After installing all packages run cmnd **npm run serve** and then open **localhost:8080** in your web browser.
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
